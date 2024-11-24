@@ -26,5 +26,5 @@ I’m an SEO executive at 29 Digitals with a passion for web development and tec
 
 ## 📫 How to Reach Me:
 
-- LinkedIn: [Sahil Kushwaha](https://www.linkedin.com/in/sahil-kushwaha-69a19b257/)
+- LinkedIn: [Sahil Kushwaha](www.linkedin.com/in/bhupesh-kushwaha)
 - GitHub: [sahil-kushwaha-007](https://github.com/sahil-kushwaha-007)
